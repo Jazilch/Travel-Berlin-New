@@ -1,0 +1,26 @@
+html {
+	font-family: 'cabin';
+}
+/*Logo*/
+#top-logo {
+	float:left;
+	height: 100px;
+	margin: -35px;
+	padding-left: 25px;
+}
+/*Navigation*/
+.nav-bar-inner {
+	margin-right: 120px;
+	margin-top: 35px;
+}
+.nav-bar ul li {
+	display: inline;
+	float: right;
+	padding-left: 15px;
+	font-size: 22px;
+	color: #333;
+}
+/*Homepage Hero Image*/
+.hero-section {
+	background-image: url('https://cdn2.hubspot.net/hubfs/2676636/Berlin2.jpg');
+}
